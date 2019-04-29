@@ -1,0 +1,81 @@
+body {
+    display: block;
+    background-size: 100%;
+    background-image: radial-gradient(circle, #ca8d94, #b67f8e, #a27186, #8d657e, #775975);
+}
+
+
+.card {
+    width: 700px;
+    border: 6px solid #ca8d94;
+    height: 400px;
+    position: absolute;
+    align-items: center;
+    text-align: center;
+    background: url(bel1.jpg);
+    border-radius: 25px;
+    background-size: cover;
+    left: 30%;
+    top: 25%;
+    box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px #2c212a;
+}
+
+h1, h2 {
+    font-family: 'Parisienne', cursive, sans-serif;
+}
+
+h1, h2, p {
+    color: #2c212a;
+    text-align: center;
+    justify-content: center;
+    width: 100%;
+    display: block;
+}
+
+.card p {
+    text-align: center;
+    margin-left: 5%;
+    */font-weight: bold;*/
+    font-family: 'Amiri', serif;
+}
+
+.hover-to-show 
+{ 
+    visibility:hidden;
+    opacity:0;
+    transition:opacity 0.5s linear;
+}
+
+a, p {
+    text-decoration: none;
+    font-size: 1.1em;
+}
+
+.hover-to-show-link:hover .hover-to-show 
+{
+    display:block;
+    visibility:visible;
+    opacity:1;
+}
+
+.contact table {
+    font-family: 'Arial';
+    font-size: 1em;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    padding-bottom: 15%;
+    margin-top: 10%;
+    word-spacing: 1em;
+}
+
+a {
+    display: inline-block;
+    margin: 0 50px 0 0;
+    color: #2c212a;
+ }
+
+
+ .icons a:hover{
+    color: #ca8d94;
+}
