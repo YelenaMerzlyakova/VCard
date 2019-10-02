@@ -28,7 +28,8 @@
 
 [The REAL DEAL :wink:](https://yelenamerzlyakova.github.io/VCard/)
 
-![]()
+![first](https://github.com/YelenaMerzlyakova/VCard/blob/master/vcard.png)
+![second](https://github.com/YelenaMerzlyakova/VCard/blob/master/vcard2.png)
 
 
 ## Any improvements?
