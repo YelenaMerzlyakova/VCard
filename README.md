@@ -26,7 +26,7 @@
 
 ## Result 
 
-[The REAL DEAL :wink:](https://yelenamerzlyakova.github.io/VCard/)
+[:cherry_blossom:The REAL DEAL :cherry_blossom:](https://yelenamerzlyakova.github.io/VCard/)  :wink:
 
 ![first](https://github.com/YelenaMerzlyakova/VCard/blob/master/vcard.png)
 ![second](https://github.com/YelenaMerzlyakova/VCard/blob/master/vcard2.png)
